@@ -21,6 +21,9 @@ Full-stack URL Shortener application สำหรับสร้าง จัด
 - FluentValidation
 - Swagger / OpenAPI
 
+### ChatGPT Log
+- https://chatgpt.com/share/6a86f9ca-e500-83ec-a81e-6b4e9b59f0cb
+- https://chatgpt.com/share/6a86f970-60fc-83ec-a38f-495a237fdf50
 ---
 
 ## Project Structure
